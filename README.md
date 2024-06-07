@@ -1,7 +1,7 @@
 # Welcome to My GitHub Repository!
 
 ## About Me
-- **Name:** [Gabriel Coelho de Araújo]
+- **Name:** Gabriel Coelho de Araújo
 - **Age:** 26
 - **Location:** Recife - Pernambuco, Brazil
 - **Occupation:** System Analysis and Development Student at SENAC
