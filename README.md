@@ -38,6 +38,7 @@ Here you'll find projects and code related to my studies, personal projects, and
 
 ## Contact Me
 Reach out to me via email at coleho.biel@gmail.com. You can also find me on [LinkedIn](http://linkedin.com/in/gabrielcaraujo), [Twitch](http://twitch.tv/bordercansado), or [Pinterest](http://pinterest.com/KingOfDegeneracy).
+
 And feel free to see my [resume](https://sites.google.com/view/gabriel-resume?usp=sharing) made on google sites.
 
 ## Contributions
