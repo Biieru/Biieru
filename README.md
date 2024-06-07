@@ -35,7 +35,7 @@ Here you'll find projects and code related to my studies, personal projects, and
   - Office
 
 ## Contact Me
-Feel free to reach out to me via email at [coleho.biel@gmail.com]. You can also connect with me on [LinkedIn](linkedin.com/in/gabrielcaraujo).
+Feel free to reach out to me via email at [coleho.biel@gmail.com]. You can also connect with me on [LinkedIn](http://linkedin.com/in/gabrielcaraujo).
 
 ## Contributions
 I'm open to collaborations and contributions! If you're interested in working together on a project or have suggestions for improvement, don't hesitate to contact me or submit a pull request.
