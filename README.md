@@ -31,6 +31,7 @@ Here you'll find projects and code related to my studies, personal projects, and
 
 - Other:
   - Git
+  - Figma
   - Office
 
 ## Contact Me
