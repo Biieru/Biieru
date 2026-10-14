@@ -15,8 +15,8 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senac PE (conclusão em d
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[Portfólio Pessoal](https://github.com/Biieru/Biieru.github.io)** | Portfólio profissional bilíngue, com apresentação de projetos, currículo, tecnologias e informações de contato. [Acessar site](https://biieru.github.io/) | React · Vite · JavaScript · CSS |
-| **[Portfolio Profissional](https://github.com/Biieru/Portfolio-Site)** | Projeto autoral de portfólio web com navegação dinâmica, animações e áudio ambiente, desenvolvido com foco na experiência do usuário. | React · Vite · React Router · Framer Motion |
+| **[Portfólio Profissional](https://github.com/Biieru/Biieru.github.io)** | Portfólio profissional bilíngue, com apresentação de projetos, currículo, tecnologias e informações de contato. [Acessar site](https://biieru.github.io/) | React · Vite · JavaScript · CSS |
+| **[Portfolio Pessoal Gameficado](https://github.com/Biieru/Portfolio-Site)** | Projeto autoral de portfólio web com navegação dinâmica, animações e áudio ambiente, desenvolvido com foco na experiência do usuário. [Acessar site](https://gabriel-caraujo.onrender.com/) | React · Vite · React Router · Framer Motion |
 | **[GIUMS Site](https://github.com/Biieru/GIUMS-SITE)** | Website artístico com identidade visual personalizada, galeria de trabalhos e elementos interativos. | HTML · CSS · JavaScript |
 | **[GIUMS Media Kit](https://github.com/Biieru/GIUMS.Mediakit)** | Media kit digital bilíngue, com apresentação profissional, seleção de idioma, impressão e download em PDF. | HTML · CSS · JavaScript |
 | **[Feira Plus+](https://github.com/Biieru/Feira-PLUS)** | Aplicativo de lista de compras com organização por corredores, exportação em TXT e JPG e foco em acessibilidade. | React · Vite · Capacitor |
