@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Coelho 👋
+# Olá você, meu nome é Gabriel Coelho 👋
 
 **Desenvolvedor de software · Front-end, mobile e games · Recife, PE**
 Estudante de Análise e Desenvolvimento de Sistemas no Senac PE (conclusão em dez/2026) e **em busca de estágio em front-end ou desenvolvimento de jogos**. Também escrevo sobre IA, engenharia de software e games no [dev.to](https://dev.to/bordercansado).
