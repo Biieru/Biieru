@@ -2,7 +2,7 @@
 
 ## About Me
 - **Name:** Gabriel Coelho de Araújo
-- **Age:** 28
+- **Age:** 29
 - **Location:** Recife - Pernambuco, Brazil
 - **Occupation:** System Analysis and Development Student at SENAC
 
