@@ -15,11 +15,15 @@ Estudante de Análise e Desenvolvimento de Sistemas no Senac PE (conclusão em d
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[Feira Plus+](https://github.com/Biieru/Feira-PLUS)** | App de lista de compras que organiza os itens pelos corredores do atacarejo, com exportação em TXT e JPG e interface pensada em acessibilidade. | React · Vite · Capacitor |
-| **[Canes](https://github.com/caiobarrosmelo/Canes_PI_2025)** | App Android de gestão de ações estratégicas, em equipe de 6. Fiz a gestão do projeto e todo o fluxo do coordenador. | Kotlin · Android · SQLite |
-| **[etlBCB](https://github.com/Biieru/etlBCB)** | Pipeline ETL com dados abertos do Banco Central, análises de Pix e cartões e modelos de previsão. | Python · pandas · SQL · scikit-learn |
-| **[BooksAPI](https://github.com/Biieru/BooksAPI)** | API REST de livros com CRUD, Swagger e testes automatizados. | Flask · SQLAlchemy · pytest |
-| **[Caminho das Constelações](https://caminho-das-constelacoes.onrender.com/)** | Sistema de RPG de mesa autoral, com regras em d100 e site próprio. | Game design · Narrativa |
+| **[Portfólio Pessoal](https://github.com/Biieru/Biieru.github.io)** | Portfólio profissional bilíngue, com apresentação de projetos, currículo, tecnologias e informações de contato. [Acessar site](https://biieru.github.io/) | React · Vite · JavaScript · CSS |
+| **[Portfolio Profissional](https://github.com/Biieru/Portfolio-Site)** | Projeto autoral de portfólio web com navegação dinâmica, animações e áudio ambiente, desenvolvido com foco na experiência do usuário. | React · Vite · React Router · Framer Motion |
+| **[GIUMS Site](https://github.com/Biieru/GIUMS-SITE)** | Website artístico com identidade visual personalizada, galeria de trabalhos e elementos interativos. | HTML · CSS · JavaScript |
+| **[GIUMS Media Kit](https://github.com/Biieru/GIUMS.Mediakit)** | Media kit digital bilíngue, com apresentação profissional, seleção de idioma, impressão e download em PDF. | HTML · CSS · JavaScript |
+| **[Feira Plus+](https://github.com/Biieru/Feira-PLUS)** | Aplicativo de lista de compras com organização por corredores, exportação em TXT e JPG e foco em acessibilidade. | React · Vite · Capacitor |
+| **[Canes](https://github.com/caiobarrosmelo/Canes_PI_2025)** | Aplicativo Android para gestão de ações estratégicas. Atuei na gestão do projeto e no desenvolvimento do fluxo do coordenador. | Kotlin · Android · SQLite |
+| **[BooksAPI](https://github.com/Biieru/BooksAPI)** | API REST para gerenciamento de livros, com operações CRUD, documentação Swagger e testes automatizados. | Python · Flask · SQLAlchemy · pytest |
+| **[etlBCB](https://github.com/Biieru/etlBCB)** | Pipeline ETL com dados públicos do Banco Central, análises financeiras e modelos de previsão. | Python · pandas · SQL · scikit-learn |
+| **[Caminho das Constelações](https://github.com/Biieru/Caminho-das-Constelacoes)** | Sistema autoral de RPG de mesa com mecânicas d100, desenvolvimento de regras, ambientação e plataforma web. [Acessar site](https://caminho-das-constelacoes.onrender.com/) | Game Design · Web · Narrativa |
 
 ## 🛠️ Tecnologias
 
