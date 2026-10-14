@@ -3,8 +3,8 @@
 **Desenvolvedor de software · Front-end, mobile e games · Recife, PE**
 Estudante de Análise e Desenvolvimento de Sistemas no Senac PE (conclusão em dez/2026) e **em busca de estágio em front-end ou desenvolvimento de jogos**. Também escrevo sobre IA, engenharia de software e games no [dev.to](https://dev.to/bordercansado).
 
-🎮 **Portfólio:** [biieru.github.io](https://biieru.github.io/)
-💼 **LinkedIn:** [linkedin.com/in/gabrielcoelho-dev](https://www.linkedin.com/in/gabrielcoelho-dev/)
+🎮 **[Portfólio](https://biieru.github.io/)**
+💼 **[LinkedIn](https://www.linkedin.com/in/gabrielcoelho-dev/)**
 📫 **E-mail:** coleho.biel@gmail.com
 
 🇺🇸 *Software developer from Recife, Brazil, looking for a front-end or game development internship. Fluent in English.*
